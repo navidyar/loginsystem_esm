@@ -110,9 +110,7 @@ export function register(req, res) {
       if (error) {
         console.log(error);
       } else {
-        return res.render('register', {
-          message: 'User Registered'
-        })
+        res.status(200).redirect('/');
       }
     });
   });
