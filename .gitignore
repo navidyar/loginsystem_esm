@@ -1,0 +1,7 @@
+.
+~
+.env
+.env copy
+package-lock.json
+
+node_modules/
