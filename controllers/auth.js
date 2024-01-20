@@ -84,7 +84,7 @@ export function register(req, res) {
       });
     } else if (!email) {
       return res.render('register', {
-        message: 'Email required.'
+        message: 'Email is required.'
       });
     } else if (!password) {
       return res.render('register', {

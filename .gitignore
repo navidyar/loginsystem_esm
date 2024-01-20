@@ -2,6 +2,5 @@
 ~
 .env
 .env copy
-package-lock.json
-
+*.sql
 node_modules/
