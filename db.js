@@ -25,4 +25,5 @@ db.getConnection((error) => {
   }
 })
 
+
 export default db;
