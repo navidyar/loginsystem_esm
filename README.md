@@ -1,2 +1,2 @@
-# A simple Login project in ESM Node
+# Simple Login
 Simple Login System Built in ESM Mode
