@@ -2,7 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import compression from 'compression';
 import cookieParser from 'cookie-parser';
-import pages from './routes/pages.js';
+import pages from './routes/pages.js'; 
 import auth from './routes/auth.js';
 
 dotenv.config({ path: './.env' });
