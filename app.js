@@ -1,4 +1,4 @@
-import express from 'express';
+import express from 'express'; 
 import dotenv from 'dotenv';
 import compression from 'compression';
 import cookieParser from 'cookie-parser';
